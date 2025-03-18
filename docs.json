@@ -25,7 +25,7 @@
           {
             "group": "Launch subscriptions",
             "pages": [
-              "docs/migrating-to-juo"
+              "docs/migrating-to-juo",
               {
                 "group": "Subscription offers",
                 "pages": [
@@ -62,7 +62,7 @@
             "pages": [
               "docs/bulk-actions",
               "docs/customer-portal",
-              "docs/tiered-discounts"
+              "docs/tiered-discounts",
               {
                 "group": "Integrations",
                 "pages": [
