@@ -29,7 +29,8 @@
                 "group": "Subscription offers",
                 "pages": [
                   "docs/creating-subscription-plan",
-                  "docs/adding-build-a-box"
+                  "docs/adding-build-a-box",
+                  "docs/custom-workflows"
                 ]
               },
               {
