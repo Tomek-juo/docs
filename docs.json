@@ -25,7 +25,7 @@
           {
             "group": "Launch subscriptions",
             "pages": [
-              "docs/migrate-to-juo"
+              "docs/migrating-to-juo"
               {
                 "group": "Subscription offers",
                 "pages": [
@@ -43,7 +43,7 @@
                   "docs/shipping",
                   "docs/notifications",
                   "docs/linking-customer-portal",
-                  "docs/subscription-widget"
+                  "docs/subscription-widget",
                 ]
               }
             ]
@@ -52,14 +52,17 @@
             "group": "Grow & Retain",
             "pages": [
               "docs/retention-flow",
-              "docs/upsells"
+              "docs/upsells",
+              "docs/extras",
+              "docs/subscription-intent-detection"
             ]
           },
           {
             "group": "Use Guide",
             "pages": [
               "docs/bulk-actions",
-              "docs/managing-subscriptions-customer-portal",
+              "docs/customer-portal",
+              "docs/tiered-discounts"
               {
                 "group": "Integrations",
                 "pages": [
