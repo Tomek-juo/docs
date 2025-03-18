@@ -25,7 +25,7 @@
           {
             "group": "Launch subscriptions",
             "pages": [
-              "docs-migrate-to-juo",
+              "docs/migrate-to-juo"
               {
                 "group": "Subscription offers",
                 "pages": [
