@@ -25,19 +25,26 @@
           {
             "group": "Launch subscriptions",
             "pages": [
+              "docs-migrate-to-juo",
               {
                 "group": "Subscription offers",
                 "pages": [
-                  "docs/creating-subscription-plan",
-                  "docs/adding-build-a-box",
-                  "docs/custom-workflows"
+                  "docs/subscribe-and-save",
+                  "docs/build-a-box",
+                  "docs/custom-workflows",
+                  "docs/curated-boxes",
+                  "docs/memberships"
                 ]
               },
               {
                 "group": "Emails & Settings",
                 "pages": [
-                  "docs/adding-juo-subscription-widget",
-                  "docs/customizing-juo-subscription-widget"
+                  "docs/general-settings",
+                  "docs/shipping",
+                  "docs/notifications",
+                  "docs/linking-customer-portal",
+                  "docs/subscription-widget",
+                  
                 ]
               }
             ]
